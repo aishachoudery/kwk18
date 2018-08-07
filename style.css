@@ -1,1 +1,25 @@
+body {background-color: #FFFB9C !important;}
 
+h1 {
+  text-align: center;
+  color: darkblue !important;
+  text-decoration: underline gray;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 60px !important;
+}
+
+h4 {
+  text-align: center;
+  color: darkblue !important;
+  font-size: 30px !important;
+
+}
+
+p {
+  font-size: 15px !important;
+}
+
+*{
+  color: darkblue !important;
+  font-family: 'Montserrat', sans-serif;
+}
